@@ -4,10 +4,10 @@ Unofficial Python integrations for ClearCare.
 
 ## Integrations
 
-- `clearcare_find_client_by_name.py` - `find_client_by_name` (308 live events).
-- `clearcare_read_adls.py` - `read_adls` (282 live events).
-- `clearcare_read_iadls.py` - `read_iadls` (272 live events).
-- `clearcare_update_adls.py` - `update_adls` (267 live events).
+- `clearcare_find_client_by_name.py` - `find_client_by_name`.
+- `clearcare_read_adls.py` - `read_adls`.
+- `clearcare_read_iadls.py` - `read_iadls`.
+- `clearcare_update_adls.py` - `update_adls`.
 
 ## Usage
 
@@ -25,8 +25,8 @@ pip install -r requirements.txt
 
 ## Info
 
-This unofficial API is built by [Integuru.ai](https://integuru.ai/).
+This unofficial API is built by [Integuru](https://integuru.com).
 
-For custom requests or hosted authentication, contact richard@taiki.online.
+For custom requests or hosted authentication, contact richard@integuru.com or [schedule time with us](https://calendly.com/d/cqb8-d9x-nbf/integuru).
 
 See the [complete list of APIs by Integuru](https://github.com/Integuru-AI/APIs-by-Integuru).
