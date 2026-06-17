@@ -4,10 +4,10 @@ Unofficial Python integrations for ClearCare.
 
 ## Integrations
 
-- `clearcare_find_client_by_name.py` - `find_client_by_name` (308 live events).
-- `clearcare_read_adls.py` - `read_adls` (282 live events).
-- `clearcare_read_iadls.py` - `read_iadls` (272 live events).
-- `clearcare_update_adls.py` - `update_adls` (267 live events).
+- `clearcare_find_client_by_name.py` - `find_client_by_name`.
+- `clearcare_read_adls.py` - `read_adls`.
+- `clearcare_read_iadls.py` - `read_iadls`.
+- `clearcare_update_adls.py` - `update_adls`.
 
 ## Usage
 
